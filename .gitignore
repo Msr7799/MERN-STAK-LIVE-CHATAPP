@@ -24,4 +24,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-*.snapshots
+
+# Snapshots
+.snapshots
+.snapshots/*
